@@ -44,7 +44,8 @@ The frontend is located in the `frontend/` directory and includes:
     ```sh
     npm run dev
     ```
-
+4. Security Code for Admin Registration is : **admin**.
+   
 ## Deployment
 
 Instructions for deploying the application will go here.
