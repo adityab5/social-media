@@ -21,7 +21,7 @@ The backend is located in the `backend/` directory and includes:
 3. Create a `.env` file based on `.env.sample` and fill in the required environment variables.
 4. Start the server:
     ```sh
-    npm start
+    npm run dev
     ```
 
 ## Frontend
